@@ -1,0 +1,40 @@
+.mainHeading{
+    position: absolute;
+    top:20%;
+    left: 35%;
+    color:blue;
+}
+
+.inputMain {
+    position: absolute;
+    top:30%;
+    left: 35%;
+    
+}
+
+.addList {
+    position:absolute;
+    margin-top:40%;
+    
+}
+.items{
+    position:absolute
+}
+
+.list{
+    
+    position: absolute;
+    margin-top:1%;
+    left: 45%;
+  
+}
+
+.list-todo-items{
+    display: flex;
+    justify-content: space-between;
+
+}
+.deleteBtn{
+    margin-left:10px;
+    margin-top:10px;
+}
